@@ -50,5 +50,3 @@ This README provides an overview of the Python topics discussed. It serves as a 
   ```
 
 ---
-
-Feel free to customize and expand this README with additional details or examples as needed.
